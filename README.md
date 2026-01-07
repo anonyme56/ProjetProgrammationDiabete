@@ -110,7 +110,7 @@ path = kagglehub.dataset_download("uciml/pima-indians-diabetes-database")
 ## Structure du Projet
 
 ```
-progamation avancé/
+programmation avancée/
 │
 │
 ├── notebooks/   # Notebooks Jupyter
